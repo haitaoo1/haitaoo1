@@ -2,7 +2,7 @@
 <h2>About me</h2>
 <h3>Last year student of Computer engineering and business administration and management at UPV</h3>
 
-- 📚 I’m currently learning **Java Sprong Boot Framework**
+- 📚 I’m currently learning **Java Spring Boot Framework**
 - ✉ How to reach me **haitaowu01@gmail.com**
 
 - 💼 I’m looking for **my first job as Software Engineer**
