@@ -5,7 +5,6 @@
 - 📚 I’m currently learning **Java Spring Boot Framework**
 - ✉ How to reach me **haitaowu01@gmail.com**
 
-- 💼 I’m looking for **my first job as Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
