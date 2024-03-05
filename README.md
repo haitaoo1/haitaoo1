@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haitao Wu</h1>
 <h2>About me</h2>
 <h3>Last year student of Computer engineering and business administration and management at UPV</h3>
+<h4>I am a final-year computer engineering student with a passion for coding and problem-solving. My journey in the world of technology has equipped me with a solid understanding of various programming languages and databases.</h4>
 
 - 📚 I’m currently learning **Java Spring Boot Framework**
 - ✉ How to reach me **haitaowu01@gmail.com**
