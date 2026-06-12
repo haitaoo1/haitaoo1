@@ -1,28 +1,51 @@
-<h1 align="center">Hi 👋, I'm Haitao Wu</h1>
-<h2>About me</h2>
-<h3>Last year student of Computer engineering and business administration and management at UPV</h3>
-<h4>I am a computer engineering student with a passion for coding and problem-solving. My journey in the world of technology has equipped me with a solid understanding of various programming languages and databases.</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=56&duration=4000&pause=1000&color=39FF14&width=600&height=70&lines=Welcome+to+Haitao%C2%B4s++Github)](https://git.io/typing-svg)
 
-- 📚 I’m currently learning **Java Spring Boot Framework**
-- ✉ How to reach me **haitaowu01@gmail.com**
+## 👨‍💻 About Me
+
+💻 Software Engineer with a strong focus on **backend development** using the Java ecosystem, currently evolving towards a **full-stack profile**.
+
+🎓 Background in Computer Engineering and Business Administration.  
+📚 Currently expanding my skills in **Spring Boot, modern frontend technologies and full-stack development**.
+
+---
+
+## ⚙️ What I Do
+
+- Build backend services using **Java & Spring Boot**
+- Design and integrate **REST & SOAP APIs**
+- Work with **SQL / Oracle databases**
+- Improve code quality through **testing, refactoring and best practices**
+- Build frontend applications with **React, TypeScript and Next.js**
+
+---
+
+## 🛠 My Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=ffffff)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/haitaowu01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/haitaowu01" height="30" width="40" /></a>
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 
-<h3 align="left">Languages and Tools:</h3>
+### Database
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=database&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=ffffff)
 
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<!--<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<!--<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+### Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![SVN](https://img.shields.io/badge/-SVN-809CC9?style=flat-square)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=ffffff)
 
+---
+
+## 📫 Contact
+
+- ✉ Email: haitaowu01@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/haitaowu01/
